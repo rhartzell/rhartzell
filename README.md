@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg?sanitize=true" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </p>
 
 
