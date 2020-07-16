@@ -4,6 +4,11 @@
 
 
 <p align="center">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg" alt="Data Science badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" alt="AI badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" alt="Web Dev badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/mobile.svg" alt="Mobile Dev badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/security.svg" alt="Security badge" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="C# dotnet badge" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML badge" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="JavaScript badge" style="vertical-align:top margin:6px 4px">
