@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Rodney's github stats](https://github-readme-stats.vercel.app/api?username=rhartzell)](https://github.com/rhartzell/github-readme-stats)
 <!--
 **rhartzell/rhartzell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
