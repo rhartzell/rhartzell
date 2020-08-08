@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-[![Rodney's github stats](https://github-readme-stats.vercel.app/api?username=rhartzell)](https://github.com/rhartzell/github-readme-stats)
-
-<a href="https://www.youracclaim.com/badges/872a91b0-6eb7-4a4f-a2b6-31ba371af10b/public_url">AWS Certified Solutions Architect Associate</a>
+I am an <a href="https://www.youracclaim.com/badges/872a91b0-6eb7-4a4f-a2b6-31ba371af10b/public_url">AWS Certified Solutions Architect Associate</a>.
 
 <p align="center">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg" alt="Data Science badge" style="vertical-align:top margin:6px 4px">
