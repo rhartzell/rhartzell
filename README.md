@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an <a href="https://www.youracclaim.com/badges/872a91b0-6eb7-4a4f-a2b6-31ba371af10b/public_url">AWS Certified Solutions Architect Associate</a>.
+I am an <a href="https://www.youracclaim.com/badges/872a91b0-6eb7-4a4f-a2b6-31ba371af10b/public_url">AWS Certified Solutions Architect Associate</a>. Below are some of my skills and interests with regard to software engineering.
 
 <p align="center">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg" alt="Data Science badge" style="vertical-align:top margin:6px 4px">
