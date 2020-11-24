@@ -30,7 +30,7 @@ I am an <a href="https://www.youracclaim.com/badges/872a91b0-6eb7-4a4f-a2b6-31ba
   
 </p>
 
-
+For a good time click <a href-"https://rhartzell.github.io/index.html">here</a>.
 <!--
 **rhartzell/rhartzell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
