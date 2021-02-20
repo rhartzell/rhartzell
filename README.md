@@ -30,7 +30,9 @@ I am an <a href="https://www.youracclaim.com/badges/872a91b0-6eb7-4a4f-a2b6-31ba
   
 </p>
 
-For a good time click [here](https://rhartzell.github.io/index.html).
+[Here's a link to my personal blog](https://rhartzell.github.io/cosmichitchhiker.github.io/).
+
+[Here's a fun WbGL javascript with some interesting physics with vortices](https://rhartzell.github.io/index.html).
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhartzell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
