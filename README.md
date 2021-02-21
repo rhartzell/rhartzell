@@ -30,7 +30,7 @@ I am an <a href="https://www.youracclaim.com/badges/872a91b0-6eb7-4a4f-a2b6-31ba
   
 </p>
 
-[Here's a link to my personal blog](https://rhartzell.github.io/cosmichitchhiker.github.io/).
+[Here's a link to my personal blog](https://blog.bozrod.com/).
 
 [Here's a fun WbGL javascript with some interesting physics with vortices](https://rhartzell.github.io/index.html).
 
